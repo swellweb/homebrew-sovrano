@@ -3,7 +3,7 @@ class Reame < Formula
   homepage "https://github.com/swellweb/reame"
   url "https://github.com/swellweb/reame.git",
       tag:      "v0.1.4",
-      revision: "ceb4fea4ffc9b4ab44db34ec91687ec3141d07c8"
+      revision: "3064498fb84a7e0fd28f7dbb56f8a3fb97892bc5"
   license "MIT"
   head "https://github.com/swellweb/reame.git", branch: "main"
 
