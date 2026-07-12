@@ -2,8 +2,8 @@ class Reame < Formula
   desc "CPU inference server that gets faster the longer it runs"
   homepage "https://github.com/swellweb/reame"
   url "https://github.com/swellweb/reame.git",
-      tag:      "v0.1.3",
-      revision: "7d10b7fbf3a6d8090ead879e49ce8f493a3c1f50"
+      tag:      "v0.1.4",
+      revision: "ceb4fea4ffc9b4ab44db34ec91687ec3141d07c8"
   license "MIT"
   head "https://github.com/swellweb/reame.git", branch: "main"
 
